@@ -20,6 +20,8 @@ function dominator(arr) {
     return -1;
   }
  
-  const arr = [3, 4, 3, 2, 3, 1, 3, 3];
-  console.log(dominator(arr)); // Output: 3
+
+
+
+
   
