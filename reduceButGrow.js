@@ -5,6 +5,10 @@ function multiplyArrayValues(array) {
       result *= value;
     }
   
+
+
+
+    
     return result;
   }
   
