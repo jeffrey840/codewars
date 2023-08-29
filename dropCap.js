@@ -7,3 +7,6 @@ function dropCap(str) {
         }
     }).join(' ');
 }
+
+
+
